@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contratosfront/static/css/main.921a79b6.css",
+    "main.js": "/contratosfront/static/js/main.2bc8e3af.js",
+    "static/js/787.cda612ba.chunk.js": "/contratosfront/static/js/787.cda612ba.chunk.js",
+    "index.html": "/contratosfront/index.html",
+    "main.921a79b6.css.map": "/contratosfront/static/css/main.921a79b6.css.map",
+    "main.2bc8e3af.js.map": "/contratosfront/static/js/main.2bc8e3af.js.map",
+    "787.cda612ba.chunk.js.map": "/contratosfront/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.921a79b6.css",
+    "static/js/main.2bc8e3af.js"
+  ]
+}
